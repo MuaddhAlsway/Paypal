@@ -1,5 +1,6 @@
 
 #  🚀 *Project Update: PayPal Front-End Study*
+<img width="100%" alt="Picture - 1" src="https://github.com/user-attachments/assets/7c15bfc8-d677-496f-aabe-5f7bc59fc6e7" />
 
 ## 💡 Overview Report
 This project is a static website inspired by PayPal's design, developed using HTML and CSS. It aims to replicate a professional and visually appealing interface, focusing on layout structuring, styling, and user experience.
@@ -83,6 +84,6 @@ This project is for educational and practice purposes.
 ---
 💻 **Developed by [Muaadh Alsway]**
 
- <a href="https://www.linkedin.com/posts/muaddh-alsway_frontend-html-css-activity-7279456674757681152-359f?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8](https://www.linkedin.com/posts/muaddh-alsway_webdevelopment-frontend-portfolioproject-activity-7301546575229554688-eeLV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8"  target="_blank" >
+ <a href="https://www.linkedin.com/posts/muaddh-alsway_webdevelopment-frontend-portfolioproject-activity-7301546575229554688-eeLV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8"  target="_blank" >
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
