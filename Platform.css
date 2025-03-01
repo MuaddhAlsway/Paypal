@@ -1,0 +1,931 @@
+body{
+    background: #f5f7fa;
+}
+
+*{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.header{
+    width: 1920px;
+    height: 80px;
+    margin: -10px 0px 0px -10px;
+    box-shadow: 5px 5px 5px rgb(190, 190, 190) ;
+    
+    
+}
+
+.logo img{
+    width: 130px;
+    margin: 0px 0px 0px 420px;
+}
+.headerCategries {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: -45px 0px 0px 650px;
+  }
+  
+  .headerCategries > a {
+    padding: 0px 0px 0px 40px;
+    color: black;
+    font-size: 13px;
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  .buttonHeader{
+    margin: -20px 0px 0px 1400px;
+  }
+.buttonHeader button{
+    padding: 10px 12px;
+    border-radius: 50px;
+    background: transparent;
+    border: 1px solid #005ea6;
+}
+
+.buttonHeader .B1{
+    padding: 10px 12px;
+    border-radius: 50px;
+    background: #005ea6;
+    border: none;
+    color: white;
+}
+
+.ContianerForSmalltoMediumBusiness{
+    margin: 0px 0px 0px 390px;
+    }
+.TitleContianerForSmalltoMediumBusiness h4{
+    margin: 50px 0px 0px 0px;
+    color: green;
+    font-weight: 600;
+}
+
+.OurCommerance h4{
+    font-size: 40px;
+    margin: 20px 0px 0px 0px;
+    font-weight: 500;
+}
+
+.Whether h4{
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.ContactSales{
+    display: flex;
+    margin: 50px 0px 0px 0px;
+}
+
+.ContactSales >  button{
+    background: #005ea6;
+    padding: 12px 18px;
+    margin: 0px 0px 0px 20px;
+    border: 1px #005ea6 solid;
+    border-radius: 50px;
+    color: white;
+    font-size: 20px;
+}
+
+.ContactSales >  .B1{
+    background:transparent;
+    padding: 12px 18px;
+    margin: 0px 0px 0px 0px;
+    border: 1px #005ea6 solid;
+    border-radius: 50px;
+    color: #005ea6;
+    font-size: 18px;
+}
+
+.imgContianer img{
+    width: 460px;
+    margin: -300px 0px 0px 730px;
+}
+
+.hr1 hr{
+    margin: 50px 0px 0px 0px;
+    border: 1px solid rgb(230, 230, 230);
+}
+
+.Looking h4{
+    margin: 25px 0px 0px 350px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.Looking a{
+    margin: 0px;
+}
+
+.Looking a{
+    margin: 0px;
+    text-decoration: none;
+    color: #005ea6;
+    font-weight: 500;
+}
+
+.Containersuit{
+    background: #012169;
+    height: 450px;
+    width: 1920px;
+    margin: 0px 0px 0px -10px;
+}
+.Containersuiticon {
+    display: flex;
+    margin: 30px 0px 0px 410px;
+}
+
+.Containersuit > div img{
+   
+    padding: 100px 300px 20px 0px;
+}
+
+.Containersuit img{
+    width: 100px;
+}
+
+.ContainersuitTitle {
+    display: flex;
+}
+
+.ContainersuitTitle > div h4{ 
+    margin: 25px -355px 0px 415px;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.ContainersuitTitle .container{
+    margin: 0px 15px 0px 0px;
+}
+
+.ContainersuitDescribition{
+    display: flex;
+    margin: 15px 0px 0px 410px;
+}
+
+.ContainersuitDescribition > div h4{
+color: white;
+margin: 0px 90px 0px 0px;
+
+}
+
+.Connect{
+    margin: 0px 0px 0px 410px;
+}
+
+.titleConnect h4{
+    font-size: 30px;
+    margin: 90px 0px 0px 0px;
+}
+
+.AcceptPayments1 {
+   width: 550px;
+   height: 400px;
+   background: #0070ba;
+   border-radius: 10px;
+   margin: 50px 0px 0px 0px;
+}
+
+.AcceptPayments1-img img{
+    width: 380px;
+    padding: 2px 0px 0px 90px;
+}
+
+
+
+.TitleAcceptPayment h4{
+    padding: 50px 0px 0px 165px;
+    font-size: 26px;
+    color: white;
+}
+
+
+
+.AcceptPayments2 {
+    width: 550px;
+    height: 400px;
+    background: white;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: -420px 0px 0px 550px;
+}
+
+.TitleAcceptPayments2 h4{
+    padding: 120px 0px 0px 90px;
+    font-size: 18px;
+}
+.LearnMore{
+    margin: 90px 0px 0px 90px;
+}
+.LearnMore a{
+    padding: 0px 0px 0px 0px;
+    text-decoration: none;
+}
+
+.LearnMore a:hover{
+    text-decoration: underline;
+}
+
+
+
+.AcceptPayments3 {
+    width: 550px;
+    height: 500px;
+    background: white;
+    border-radius: 10px;
+    margin: 50px 0px 0px 0px;
+ }
+ 
+
+ 
+ 
+ 
+ .TitleAccepetPayment3 h4{
+     padding: 80px 0px 0px 65px;
+     font-size: 20px;
+     color: black;
+ }
+ 
+ 
+ 
+ .AcceptPayments4 {
+     width: 550px;
+     height: 500px;
+     background: #066f59;
+     border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+     margin: -530px 0px 0px 550px;
+ }
+ 
+ .TitleAcceptPayments4 h4{
+     padding: 80px 0px 0px 180px;
+     font-size: 25px;
+    color: white;
+ }
+ .LearnMore{
+     margin: 90px 0px 0px 90px;
+ }
+ .LearnMore1 a{
+     padding: 0px 0px 0px 0px;
+     text-decoration: none;
+ }
+ 
+ .LearnMore a:hover{
+     text-decoration: underline;
+ }
+
+ .ImgAcceptPayments4 img{
+    width: 365px;
+    margin: 15px 0px 0px 80px;
+ }
+
+
+ .AcceptPayments5 {
+    width: 550px;
+    height: 500px;
+    background: #4a4a4a;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    margin: 50px 0px 0px 0px;
+ }
+ 
+
+ 
+ 
+ 
+ .TitleAccepetPayment5 h4{
+     padding: 80px 0px 0px 65px;
+     font-size: 20px;
+     color: black;
+ }
+ 
+ 
+ .img-AcceptPayment5 img{
+    width: 400px;
+    padding: 215px 0px 0px 60px;
+ }
+ .AcceptPayments6 {
+     width: 550px;
+     height: 500px;
+     background: white;
+     border-top-right-radius: 5px;
+     border-bottom-right-radius: 5px;
+     margin: -530px 0px 0px 550px;
+ }
+ 
+ .TitleAcceptPayments6 h4{
+     padding: 80px 0px 0px 90px;
+     font-size: 20px;
+    color: black;
+ }
+ .LearnMore{
+     margin: 90px 0px 0px 90px;
+ }
+ .LearnMore1 a{
+     padding: 0px 0px 0px 0px;
+     text-decoration: none;
+ }
+ 
+ .LearnMore a:hover{
+     text-decoration: underline;
+ }
+
+ .ImgAcceptPayments6 img{
+    width: 365px;
+    margin: 15px 0px 0px 80px;
+ }
+
+
+
+ 
+
+
+
+
+ .AcceptPayments7 {
+    width: 550px;
+    height: 500px;
+    background: #4a4a4a;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    margin: 50px 0px 0px 0px;
+ }
+ 
+
+ 
+ 
+ 
+ .TitleAcceptPayments7 h4{
+     padding: 80px 0px 0px 65px;
+     font-size: 20px;
+     color: black;
+ }
+ 
+ 
+ .img-AcceptPayments7 img{
+    width: 400px;
+    padding: 215px 0px 0px 60px;
+ }
+ .AcceptPayments8 {
+     width: 550px;
+     height: 500px;
+     background: white;
+     border-top-right-radius: 5px;
+     border-bottom-right-radius: 5px;
+     margin: -530px 0px 0px 550px;
+ }
+ 
+ .TitleAcceptPayments8 h4{
+     padding: 80px 0px 0px 90px;
+     font-size: 20px;
+    color: black;
+ }
+ .LearnMore{
+     margin: 90px 0px 0px 90px;
+ }
+ .LearnMore1 a{
+     padding: 0px 0px 0px 0px;
+     text-decoration: none;
+ }
+ 
+ .LearnMore a:hover{
+     text-decoration: underline;
+ }
+
+ .ImgAcceptPayments6 img{
+    width: 365px;
+    margin: 15px 0px 0px 80px;
+ }
+
+
+
+
+ .AcceptPayments7 {
+    width: 550px;
+    height: 613px;
+    background: white;
+    border-radius: 10px;
+    margin: 50px 0px 0px 0px;
+ }
+ 
+
+ 
+ 
+ 
+ .TitleAccepetPayment7 h4{
+     padding: 80px 0px 0px 65px;
+     font-size: 20px;
+     color: black;
+ }
+ 
+ 
+ 
+ .AcceptPayments8 {
+     width: 550px;
+     height: 613px;
+     background: #012169;
+     border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+     margin: -647px 0px 0px 550px;
+ }
+ 
+ .TitleAcceptPayments8 h4{
+     padding: 80px 0px 0px 180px;
+     font-size: 25px;
+    color: white;
+ }
+ .LearnMore{
+     margin: 90px 0px 0px 90px;
+ }
+ .LearnMore1 a{
+     padding: 0px 0px 0px 0px;
+     text-decoration: none;
+ }
+ 
+ .LearnMore a:hover{
+     text-decoration: underline;
+ }
+
+ .ImgAcceptPayments8 img{
+    width: 365px;
+    margin: 15px 0px 0px 95px;
+ }
+
+
+ .Footer{
+ 
+    margin: 60px 0px 50px 400px;
+ }
+
+
+.Contianering1{
+    width: 550px;
+    height: 600px;
+    background: white;
+   
+}
+
+.img-Contianering1 img{
+    width: 450px;
+    margin: 40px 0px 0px 50px;
+    border-radius: 10px;
+}
+
+.TitleContanering1 h4{
+    font-size: 25px;
+    font-weight: 500;
+    margin: 20px 0px 0px 50px;
+}
+
+.JoinFor h4{
+    font-size: 18px;
+    font-weight: 500;
+    margin: 20px 0px 0px 50px;
+}
+
+.button button{
+    padding: 15px 18px;
+    border-radius: 30px;
+    margin: 90px 0px 0px 50px;
+    background: #0070ba;
+    color: white;
+    border: none;
+    font-size: 18px;
+}
+
+
+.Contianering2{
+    width: 550px;
+    height: 600px;
+    background: white;
+    margin: -600px 0px 0px 570px;
+   
+}
+
+.img-Contianering2 img{
+    width: 450px;
+    margin: 40px 0px 0px 50px;
+    border-radius: 10px;
+}
+
+.TitleContanering2 h4{
+    font-size: 25px;
+    font-weight: 500;
+    margin: 20px 0px 0px 50px;
+}
+
+.JoinFor h4{
+    font-size: 18px;
+    font-weight: 500;
+    margin: 20px 0px 0px 50px;
+}
+
+.button button{
+    padding: 15px 18px;
+    border-radius: 30px;
+    margin: 90px 0px 0px 50px;
+    background: #0070ba;
+    color: white;
+    border: none;
+    font-size: 18px;
+}
+
+
+
+.Highlight h4{
+    margin: 150px 0px 0px 0px;
+    font-size: 13px;
+}
+
+.Highlight a{
+  text-decoration:none;
+}
+
+.Highlight a:hover{
+    text-decoration:underline;
+  }
+  
+
+.Small-to-MediumBusiness{
+    margin: 250px 0px 0px 0px;
+}
+
+
+
+.TitleSmallToMediumBusiness{
+    margin: 0px 0px 0px 0px;
+}
+.TitleSmallToMediumBusiness h4{
+    font-size: 14px;
+}
+
+.Hr-1 {
+    margin: 0px 1050px 0px 0px;
+}
+.HR-1{
+    width: 450px;
+    border: dotted 1px  black;
+
+    
+}
+
+.ListSmallToMediumBusiness{
+    display: flex;
+    flex-direction: column;
+    margin: 0px 0px 50px 0px;
+}
+
+.ListSmallToMediumBusiness  a{
+    padding: 20px 0px 0px 0px;
+    font-size: 13px;
+    text-decoration: none;
+    font-weight: 700;
+    color: black;
+    
+}
+
+.ListSmallToMediumBusiness  a:hover{
+   text-decoration: underline;
+    
+}
+
+
+.ListSmallToMediumBusiness1{
+    display: flex;
+    flex-direction: column;
+    margin: -120px 0px 0px 250px;
+}
+
+.TitleSmallToMediumBusiness1{
+    margin: -100px 0px 0px 0px;
+}
+
+.TitleSmallToMediumBusiness1 a{
+    margin: -50px 0px 0px 250px;
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    font-weight: 700;
+}
+.TitleSmallToMediumBusiness1 a:hover{
+    text-decoration: underline;
+
+}
+
+.ListSmallToMediumBussiness2 {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 0px 0px 250px;
+}
+.ListSmallToMediumBussiness2 > a{
+    margin: 5px 0px 0px 0px;
+    padding: 5px 0px 0px 0px;
+    text-decoration: none;
+    font-size: 14px;
+    color: black;
+    
+}
+.ListSmallToMediumBussiness2  a:hover{
+    text-decoration: underline;
+}
+
+
+.Container1{
+    margin: 0px 0px 0px 500px;
+}
+.TitleSmallToMediumBusiness30{
+    margin: -218px 0px 0px 0px;
+}
+.TitleSmallToMediumBusiness3 h4{
+    font-size: 14px;
+}
+
+.Hr-1 {
+    margin: -10px 1050px 0px 0px;
+}
+.HR-1{
+    width: 450px;
+    border: dotted 1px  black;
+   
+}
+
+.ListSmallToMediumBusiness31{
+    display: flex;
+    flex-direction: column;
+    margin: 0px 0px 50px 0px;
+}
+
+.ListSmallToMediumBusiness31  a{
+    padding: 20px 0px 0px 0px;
+    font-size: 13px;
+    text-decoration: none;
+    font-weight: 700;
+    color: black;
+    
+}
+
+.ListSmallToMediumBusiness  a:hover{
+   text-decoration: underline;
+    
+}
+
+
+.ListSmallToMediumBusiness4{
+    display: flex;
+    flex-direction: column;
+    margin: -120px 0px 0px 250px;
+}
+
+.TitleSmallToMediumBusiness4{
+    margin: -65px 0px 0px 0px;
+}
+
+.TitleSmallToMediumBusiness4 a{
+    margin: -50px 0px 0px 250px;
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    font-weight: 700;
+}
+.TitleSmallToMediumBusiness1 a:hover{
+    text-decoration: underline;
+
+}
+
+.ListSmallToMediumBussiness5 {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 0px 0px 250px;
+}
+.ListSmallToMediumBussiness5 > a{
+    margin: 5px 0px 0px 0px;
+    padding: 5px 0px 0px 0px;
+    text-decoration: none;
+    font-size: 14px;
+    color: black;
+    
+}
+.ListSmallToMediumBussiness5  a:hover{
+    text-decoration: underline;
+}
+
+
+
+
+.Container{
+    margin: 0px 0px 0px 500px;
+}
+.TitleSmallToMediumBusiness3{
+    margin: -218px 0px 0px 0px;
+}
+.TitleSmallToMediumBusiness3 h4{
+    font-size: 14px;
+}
+
+.Hr-1 {
+    margin: 0px 1050px 0px 0px;
+}
+.HR-1{
+    width: 450px;
+   
+}
+
+.ListSmallToMediumBusiness31{
+    display: flex;
+    flex-direction: column;
+    margin: 0px 0px 50px 0px;
+}
+
+.ListSmallToMediumBusiness31  a{
+    padding: 20px 0px 0px 0px;
+    font-size: 13px;
+    text-decoration: none;
+    font-weight: 700;
+    color: black;
+    
+}
+
+.ListSmallToMediumBusiness  a:hover{
+   text-decoration: underline;
+    
+}
+
+
+.ListSmallToMediumBusiness4{
+    display: flex;
+    flex-direction: column;
+    margin: -120px 0px 0px 250px;
+}
+
+.TitleSmallToMediumBusiness4{
+    margin: -65px 0px 0px 0px;
+}
+
+.TitleSmallToMediumBusiness4 a{
+    margin: -50px 0px 0px 250px;
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    font-weight: 700;
+}
+.TitleSmallToMediumBusiness1 a:hover{
+    text-decoration: underline;
+
+}
+
+.ListSmallToMediumBussiness5 {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 0px 0px 250px;
+}
+.ListSmallToMediumBussiness5 > a{
+    margin: 5px 0px 0px 0px;
+    padding: 5px 0px 0px 0px;
+    text-decoration: none;
+    font-size: 14px;
+    color: black;
+    
+}
+.ListSmallToMediumBussiness5  a:hover{
+    text-decoration: underline;
+}
+
+
+
+.Container10{
+    margin: 0px 0px 0px 1000px;
+}
+.TitleSmallToMediumBusiness30{
+    margin: -208px 0px -8px 0px;
+}
+.TitleSmallToMediumBusiness30 h4{
+    font-size: 14px;
+}
+
+.Hr-10 {
+    margin: 0px 1050px 0px 0px;
+}
+.HR-10{
+    width: 120px;
+    border: dotted 1px  black;
+   
+}
+
+.ListSmallToMediumBusiness31{
+    display: flex;
+    flex-direction: column;
+    margin: 0px 0px 50px 0px;
+}
+
+.ListSmallToMediumBusiness31  a{
+    padding: 20px 0px 0px 0px;
+    font-size: 13px;
+    text-decoration: none;
+    font-weight: 700;
+    color: black;
+    
+}
+
+.ListSmallToMediumBusiness  a:hover{
+   text-decoration: underline;
+    
+}
+
+
+.ListSmallToMediumBusiness4{
+    display: flex;
+    flex-direction: column;
+    margin: -120px 0px 0px 250px;
+}
+
+.TitleSmallToMediumBusiness4{
+    margin: -65px 0px 0px 0px;
+}
+
+.TitleSmallToMediumBusiness4 a{
+    margin: -50px 0px 0px 250px;
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    font-weight: 700;
+}
+.TitleSmallToMediumBusiness1 a:hover{
+    text-decoration: underline;
+
+}
+
+.ListSmallToMediumBussiness5 {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 0px 0px 250px;
+}
+.ListSmallToMediumBussiness5 > a{
+    margin: 5px 0px 0px 0px;
+    padding: 5px 0px 0px 0px;
+    text-decoration: none;
+    font-size: 14px;
+    color: black;
+    
+}
+.ListSmallToMediumBussiness5  a:hover{
+    text-decoration: underline;
+}
+
+.ListContianer {
+    display: flex;
+    font-size: 12px;
+    margin: 230px 0px -40px 10px;
+}
+
+.ListContianer > div a{
+    margin: 0px 20px 0px 0px;
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+
+}
+
+
+.ListContianer  a:hover{
+  text-decoration: underline;
+
+}
+
+
+.LineMiddle1 .HR-3{
+    border: 1px dotted #b1b1b1;
+    width: 1000px;
+    margin: 10px 0px 0px 410px;
+}
+.About {
+    margin: 10px 0px 0px 390px;
+    display: flex;
+}
+
+.About > div a{
+    font-size: 13px;
+    color: #4a4a4a;
+    text-decoration: none;
+    margin: 0px 0px 0px 20px;
+}
+
+.About > div a:hover{
+  text-decoration: underline;
+}
+
+
+.About .About1{
+    margin: 0px 0px 0px 280px;
+} 
+
+
+.PayPal{
+    margin: 0px 0px 50px 255px;
+}
+
+.PayPal h4{
+    font-size: 13px;
+    margin: 15px 0px 0px 150px;
+}

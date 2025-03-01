@@ -1,0 +1,788 @@
+body{
+    background: #f5f7fa;
+}
+
+*{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.header{
+    width: 1920px;
+    height: 80px;
+    margin: -10px 0px 0px -10px;
+    
+    
+}
+
+.logo img{
+    width: 130px;
+    margin: 0px 0px 0px 420px;
+}
+.headerCategries {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: -45px 0px 0px 650px;
+  }
+  
+  .headerCategries > a {
+    padding: 0px 0px 0px 40px;
+    color: black;
+    font-size: 13px;
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  .buttonHeader{
+    margin: -20px 0px 0px 1400px;
+  }
+.buttonHeader button{
+    padding: 10px 12px;
+    border-radius: 50px;
+    background: transparent;
+    border: 1px solid #005ea6;
+}
+
+.buttonHeader .B1{
+    padding: 10px 12px;
+    border-radius: 50px;
+    background: #005ea6;
+    border: none;
+    color: white;
+}
+
+
+.ContianerForSmalltoMediumBusiness1{
+    width: 1922px;
+    height: 650px;
+    background: #012169;
+    margin: -5px 0px 0px -10px;
+}
+
+.Title-ContainerForSmalltoMediumBuainess1 {
+    font-size: 15px;
+    color: white;
+    padding: 120px 0px 0px 0px;
+    font-weight: 600;
+}
+
+.Title-ContainerForSmalltoMediumBuainess1 h4{
+    margin: 0px 0px 0px 0px;
+
+}
+
+.ContinierForSmall{
+    margin: 0px 0px 0px 450px;
+}
+
+.YourMost{
+    margin: -20px 0px 0px 0px;
+}
+
+.YourMost h4{
+    font-size: 45px;
+    color: white;
+}
+
+.OurInnovate h4{
+    margin: -30px 0px 0px 0px;
+    color: white;
+}
+
+.Contant {
+    margin: 50px 0px 0px 0px;
+}
+.Contant button{
+    padding: 15px 25px;
+    border-radius: 30px;
+    background: white;
+    color: #005ea6;
+    font-size: 19px;
+    font-weight: 600;
+}
+
+
+.imgContainer{
+    margin: -300px 0px 0px 550px;
+}
+
+
+.imgContainer img{
+    width: 560px;
+}
+
+
+.LookingForanOutoftheboxCommerceSolution{
+    margin: -10px 0px 0px 450px;
+}
+.LookingForanOutoftheboxCommerceSolution .TitleLookingForanOut{
+    margin: -10px 0px 0px 0px;
+}
+.LookingForanOutoftheboxCommerceSolution .LinkLoookinForOut{
+    margin: -10px 0px 0px 0px;
+
+}
+
+
+.ContinearPlatform{
+    background: #2a2a2a;
+    width: 1920px;
+    height: 750px;
+    margin: 100px 0px 150px 0px;
+}
+
+.TitleContinaerPlatform h4{
+    margin: 45px 0px 0px 0px;
+    padding: 110px 0px 0px 650px;
+    color: white;
+    font-size: 30px;
+}
+
+.iconContainerPlatformn{
+    display: flex;
+    margin: 0px 0px 0px 520px;
+}
+
+.iconContainerPlatformn > div img{
+    margin: 100px 250px 0px 0px;
+    width: 100px;
+}
+
+.TitleiconContinaerPlatform {
+    display: flex;
+    margin: 30px 0px 0px 510px;
+    font-size: 35px;
+
+}
+
+
+
+.TitleiconContinaerPlatform  h4{
+    margin: 0px 210px 0px 0px;
+    color: white;
+}
+
+.DescribitionContainerPlatform{
+    display: flex;
+    margin: 20px 0px 0px 420px;
+}
+
+.DescribitionContainerPlatform >  div h4{
+    color: white;
+    margin: 0px 0px 0px 0px;
+    font-size: 16px
+}
+
+.DescribitionContainerPlatform .Stay{
+    margin: 0px 50px 0px 50px;
+}
+
+.Growth{
+    margin: 960px 0px 0px 540px;
+}
+
+.imgPayPalCommerancePlatformDrivesGrowthEffieciency img{
+    width: 370px;
+}
+
+
+.Describtion{
+    margin: -500px 0px 0px 440px;
+}
+.Describtion h4{
+    font-size: 35px;
+    font-size: 600;
+}
+
+.increase{
+    margin: 350px 0px -280px 450px;
+}
+
+.imgIncrease img{
+    width: 100px;
+}
+.TitleIncrease {
+    margin: -120px 0px 0px 150px;    
+}
+
+.TitleIncrease h4{
+    font-weight: 600;
+}
+
+
+.DescribtionIncrease{
+    margin: 0px 0px 0px 150px;
+}
+.DescribtionIncrease h4{
+    font-weight: 500;
+
+}
+
+
+.Adapt{
+    margin: 350px 0px -280px 450px;
+}
+
+.imgAdapt img{
+    width: 100px;
+}
+.TitleAdapt {
+    margin: -120px 0px 0px 150px;    
+}
+
+.TitleAdapt h4{
+    font-weight: 600;
+}
+
+
+.DescribtionAdapt{
+    margin: 0px 0px 0px 150px;
+}
+.DescribtionAdapt h4{
+    font-weight: 500;
+
+}
+
+
+.Gain{
+    margin: -80px 0px -280px  1050px;
+}
+
+.imgGain img{
+    width: 100px;
+}
+.TitleGain {
+    margin: -120px 0px 0px 150px;    
+}
+
+.TitleGain h4{
+    font-weight: 600;
+}
+
+
+.DescribtionGain{
+    margin: 0px 0px 0px 150px;
+}
+.DescribtionGain h4{
+    font-weight: 500;
+
+}
+
+
+.Improve{
+    margin: 360px 0px -280px  1050px;
+}
+
+.imgImprove img{
+    width: 100px;
+}
+.TitleImprove {
+    margin: -120px 0px 0px 150px;    
+}
+
+.TitleImprove h4{
+    font-weight: 600;
+}
+
+
+.DescribtionImprove{
+    margin: 0px 0px 0px 150px;
+}
+.DescribtionImprove h4{
+    font-weight: 500;
+
+}
+
+
+.consumers{
+    margin: 550px 0px 0px 400px;
+}
+
+.TitleConsumers{
+    margin: 0px 0px -150px 0px;
+}
+.TitleConsumers h4{
+    font-size: 180px;
+    font-size: 100px;
+    color: #2e8362;
+}
+
+
+.TrustPayPal{
+    margin: 150px 0px 0px 0px;   
+}
+.TrustPayPal h4{
+    font-size: 35px;
+    font-weight: 500
+}
+
+.hr .HR-1{
+    height: 400px;
+    width: 0px;
+    margin: -380px 0px 0px 600px;
+    color: rgb(133, 133, 133);
+}
+
+.Numberbuy h2{
+    margin: -360px 0px 0px 650px;
+    font-size: 50px;
+    color: green;
+}
+
+.Consumrebuy h4{
+    margin: 10px 0px 0px 650px;
+    font-size: 22px;
+    color: black;
+}
+
+.hr .HR-2{
+    height:0px;
+    width: 600px;
+    margin: 50px 0px 0px 650px;
+    color: rgb(133, 133, 133);
+}
+
+.Numberbuy2 h2{
+    margin: 50px 0px 0px 650px;
+    font-size: 50px;
+    color: green;
+}
+
+.Consumrebuy1 h4{
+    margin: 10px 0px 0px 650px;
+    font-size: 22px;
+    color: black;
+}
+
+
+.PayPalfit{
+    margin: 200px 0px 0px 400px;
+}
+
+.TitlePayPalfit{
+    margin: 80px 0px -25px 0px;
+}
+
+.TitlePayPalfit h4{
+   font-size: 30px;
+
+}
+
+
+.AcceptPayment{
+    width: 550px;
+    height: 450px;
+    background: #012169;
+    margin: 60px 0px 0px 0px;
+}
+
+.TitleAcceptPayment h4{
+    font-size: 35px;
+    color: white;
+    padding: 35px 0px 0px 90px;
+}
+
+.Img-AcceptPayment img{
+    width: 350px;
+    margin: 35px 0px 0px 110px;
+}
+
+
+.AcceptPayment1{
+    width: 550px;
+    height: 450px;
+    background: #cecece;
+    margin: -479px 0px 0px 550px;
+}
+
+.TitleAcceptPayment1 h4{
+    font-size: 20px;
+    color: white;
+    padding: 110px 0px 50px 90px;
+}
+
+.Img-AcceptPayment1 img{
+    width: 350px;
+    margin: 35px 0px 0px 110px;
+}
+
+.MoreAbout a{
+    padding: 25px 0px 0px 95px;
+    color: #005ea6;
+}
+
+
+.AcceptPayment3{
+    width: 550px;
+    height: 550px;
+    background:white;
+    margin: 60px 0px 0px 0px;
+}
+
+.TitleAcceptPayment3 h4{
+    font-size: 35px;
+    color: white;
+    padding: 35px 0px 0px 90px;
+}
+
+.Img-AcceptPayment3 img{
+    width: 350px;
+    margin: 35px 0px 0px 110px;
+}
+
+
+
+
+
+
+.AcceptPayment2{
+    width: 550px;
+    height: 550px;
+    background: #012169;
+    margin: -550px 0px 0px 550px;
+}
+
+
+.Title-AcceptPayment21 h4{
+    padding: 50px 0px 0px 0px;
+    font-size: 40px;
+    margin: -10px 0px 0px 100px;
+    color: white;
+}
+
+.TitleAcceptPayment2 h4{
+    font-size: 20px;
+    color: black;
+    padding: 30px 0px 150px 90px;
+}
+
+.Img-AcceptPayment2 img{
+    width: 400px;
+    margin: 65px 0px 0px 110px;
+
+}
+
+.MoreAbout1 a{
+    padding: 25px 0px 0px 95px;
+    color: #005ea6;
+}
+
+
+.AcceptPayment4{
+    width: 550px;
+    height: 550px;
+    background:#012169;
+    margin: 60px 0px 0px 0px;
+}
+
+
+
+.AcceptPayment-img img{
+    padding: 149px 0px;
+    width: 550px;
+}
+
+
+.AcceptPayment5{
+    width: 550px;
+    height: 550px;
+    background: white;
+    margin: -570px 0px 0px 550px;
+}
+
+
+.AcceptPayment5 h4{
+    font-size: 20px;
+    padding: 80px 0px 150px 60px;
+}
+
+
+.Highlight-AcceptPayment5 a{
+    margin: 0px 0px 0px 60px;
+} 
+
+
+
+.AcceptPayment3{
+    width: 550px;
+    height: 550px;
+    background:white;
+    margin: 60px 0px 0px 0px;
+}
+
+.TitleAcceptPayment3 h4{
+    font-size: 35px;
+    color: white;
+    padding: 35px 0px 0px 90px;
+}
+
+.Img-AcceptPayment3 img{
+    width: 350px;
+    margin: 35px 0px 0px 110px;
+}
+
+
+
+
+
+
+.AcceptPayment2{
+    width: 550px;
+    height: 550px;
+    background: #012169;
+    margin: -550px 0px 0px 550px;
+}
+
+
+.Title-AcceptPayment21 h4{
+    padding: 50px 0px 0px 0px;
+    font-size: 40px;
+    margin: -10px 0px 0px 100px;
+    color: white;
+}
+
+.TitleAcceptPayment2 h4{
+    font-size: 20px;
+    color: black;
+    padding: 30px 0px 150px 90px;
+}
+
+.Img-AcceptPayment2 img{
+    width: 480px;
+    margin: -1px 0px 0px 40px;
+
+}
+.Img-AcceptPayment21 img{
+    width: 480px;
+    margin:157px 0px 0px 40px;
+
+}
+.MoreAbout1 a{
+    padding: 25px 0px 0px 95px;
+    color: #005ea6;
+}
+
+.BusinessTeam{
+    margin: 80px 0px 0px 400px;
+}
+
+.ContantBusinessTeam {
+    width: 550px;
+    height: 600px;
+    background:white;
+}
+
+.img-ContantBusinessTeam img{
+    width: 480px;
+    margin: 50px 0px 0px 35px;
+}
+
+.TitleOurBuisnessTeam h4{
+    margin: 50px 0px 0px 40px;
+    font-size: 30px;
+}
+
+.HighlightOurBuisnessTeam h4{
+    margin: 10px 0px 0px 43px;
+    font-size: 18px;
+}
+
+
+.ButtonOurBusinessTeam button{
+    margin: 120px 0px 0px 50px;
+    padding: 13px 20px;
+    font-size: 18px;
+    border-radius: 30px;
+    background: #005ea6;
+    color: white;
+    border: none;
+}
+
+.ContantBusinessTeam {
+    width: 530px;
+    height: 600px;
+    background:white;
+}
+
+.img-ContantBusinessTeam img{
+    width: 480px;
+    margin: 50px 0px 0px 35px;
+}
+
+.TitleOurBuisnessTeam h4{
+    margin: 50px 0px 0px 40px;
+    font-size: 30px;
+}
+
+.HighlightOurBuisnessTeam h4{
+    margin: 10px 0px 0px 43px;
+    font-size: 18px;
+}
+
+
+.ButtonOurBusinessTeam button{
+    margin: 80px 0px 0px 50px;
+    padding: 13px 20px;
+    font-size: 18px;
+    border-radius: 30px;
+    background: #005ea6;
+    color: white;
+    border: none;
+}
+
+.ContantBusinessTeam1 {
+    width: 530px;
+    height: 600px;
+    background:white;
+    margin: -600px 0px 0px 565px;
+}
+
+
+.img-ContantBusinessTeam1 img{
+    width: 480px;
+    margin: 50px 0px 0px 35px;
+}
+
+.TitleOurBuisnessTeam1 h4{
+    margin: 50px 0px 0px 40px;
+    font-size: 30px;
+}
+
+.HighlightOurBuisnessTeam1 h4{
+    margin: 10px 0px 0px 43px;
+    font-size: 18px;
+}
+
+
+.ButtonOurBusinessTeam1 button{
+    margin: 55px 0px 0px 50px;
+    padding: 13px 20px;
+    font-size: 18px;
+    border-radius: 30px;
+    background: #005ea6;
+    color: white;
+    border: none;
+}
+
+.DigitalTrendImpact{
+    width: 1915px;
+    height: 650px;
+    background: rgb(255, 255, 255);
+    margin: 0px 0px 0px -5px;
+}
+
+.Title-DigitalTrendImpact{
+    margin: 120px 0px 0px -8px;
+    font-size: 13px;
+    padding: 50px 0px 0px 390px;
+    font-weight: 600;
+
+}
+
+.Hr-1 .HR-1{
+    margin: 10px 0px 20px 380px;
+    width: 450px;
+    border: 1px solid black;
+}
+
+.Small h4{
+    margin: -370px 0px 0px 380px;
+
+}
+
+.Small-to-MediuMBus {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0px 0px 380px;
+    padding: 0px 0px 0px 0px;
+}
+
+.Small-to-MediuMBus a{
+    font-size: 15px;
+    text-decoration: none;
+    padding:15px 0px 0px 0px;
+    color: black;
+    font-weight: 600;
+}
+
+.Small-to-MediuMBus a:hover{
+    text-decoration: underline;
+}
+
+.Small-to-MediuMBusing{
+    display: flex;
+    flex-direction: column;
+    margin: -60px 0px 0px 650px;
+}
+
+.Small-to-MediuMBusing a{
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+    padding: 10px 0px 0px 0px;
+}
+
+.Small-to-MediuMBusing .Soo{
+    font-weight: 600;    
+}
+
+
+
+.Small-to-MediuMBusing a:hover{
+    text-decoration: underline;
+}
+
+.Small-to-MediumBusinessing{
+    margin: 195px 0px 0px 550px;
+}
+
+
+.Small-to-MediuMBusing1{
+    display: flex;
+    flex-direction: column;
+    margin: -60px 0px 0px 650px;
+}
+
+.Small-to-MediuMBusing1 a{
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+    padding: 10px 0px 0px 0px;
+}
+
+.Small-to-MediuMBusing1 .Soo{
+    font-weight: 600; 
+    margin: 35px 0px 0px 0px;   
+}
+
+
+
+.Small-to-MediuMBusing1 a:hover{
+    text-decoration: underline;
+}
+
+.Hr2 .HR-2{
+    margin: 10px 0px 20px 880px;
+    width: 80px;
+    border: 1px solid black;
+}
+.Small1 h4{
+    margin: -370px 0px 0px 880px;
+
+}
+
+.Small-to-MediuMBus1 a{
+    font-size: 15px;
+    text-decoration: none;
+    padding:100px 0px 0px 0px;
+    margin: 0px 0px 0px 880px;
+    color: black;
+    font-weight: 600;
+}
+
+.Small-to-MediuMBus1 a:hover{
+    text-decoration: underline;
+}

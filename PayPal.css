@@ -1,0 +1,695 @@
+*{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.header{
+    width: 1920px;
+    height: 80px;
+    margin: -10px 0px 0px -10px;
+    background: #ffffff;
+}
+
+.logo img{
+    width: 130px;
+    margin: 0px 0px 0px 420px;
+}
+.headerCategries {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: -45px 0px 0px 650px;
+  }
+  
+  .headerCategries > a {
+    padding: 0px 0px 0px 40px;
+    color: black;
+    font-size: 13px;
+    font-weight: 700;
+    text-decoration: none;
+  }
+.ButtonTakeAction {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: -25px 0px 0px 1350px;
+}
+
+.ButtonTakeAction button{
+    margin: 0px 0px 0px 10px;
+    border-radius: 50px;
+    padding: 8px 15px;
+    background: white;
+    border: 1px solid #0070ba;
+    color: #0070ba;
+    font-weight: 600
+}
+.ButtonTakeAction .SolidButton{
+    background:#0070ba ;
+    color: white;
+}
+
+.HeaderContainer{
+    margin: -5px 0px 30px -10px;
+    overflow-x: hidden;
+    width: 1922px;
+    height: 500px;
+
+}
+.HeaderContainer:hover{
+    overflow-x: scroll;
+    scrollbar-color: transparent transparent;  
+   
+}
+
+.HeaderContainer h2{
+   margin: 0px 0px 0px 2000px;
+
+}
+.headerImg1Container .HeaderIMG1{
+    width: 1922px;
+    height: 500px;
+    background-image: url(img/Header\ -\ img\ 1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -140px ;
+
+}
+
+.Title-HeaderIMG h2{
+    font-size: 40px;
+    margin: -450px 0px 0px 420px ;
+    font-family: "Kanit", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+    color: white;
+}
+.describiton-HeaderIMG h4{
+    margin: 15px 0px 50px 425px;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+ 
+}
+.buttonHeaderIMG{
+ 
+        display: flex;
+        flex-direction: column;
+    width: 100;
+    margin: 10px 0px 0px 430px;
+      }
+.buttonHeaderIMG > div button{
+    margin: 15px 0px 0px 0px ;
+    padding: 15px 115px;
+    background: #0070ba;
+    color: white;
+    border: 1px solid #0070ba;
+    border-radius: 50px;
+}
+.buttonHeaderIMG .LearnMore{
+    padding: 15px 120px;
+    color: white;
+    background: transparent;
+    border: 1px solid white;
+
+}
+
+.headerImg2Container{
+    margin: -434px 0px 0px 1920px;
+    width: 1200px;
+}
+
+.headerImg2Container .HeaderIMG2{
+    width: 1922px;
+    height: 500px;
+    background-image: url(img/Header\ -\ img\ 2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -140px ;
+
+}
+
+
+.Title-HeaderIMG2 h2{
+    font-size: 40px;
+    margin: -420px 0px 0px 420px ;
+    font-family: "Kanit", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+    color: white;
+}
+.describiton-HeaderIMG2 h4{
+    margin: 15px 0px 50px 425px;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+ 
+}
+.buttonHeaderIMG2{
+ 
+        display: flex;
+        flex-direction: column;
+    width: 150;
+    margin: 10px 0px 15px 430px;
+
+      }
+.buttonHeaderIMG2 > div button{
+    margin: 15px 0px 0px 0px ;
+    padding: 15px 110px;
+    background: #0070ba;
+    color: white;
+    border: 1px solid #0070ba;
+    border-radius: 50px;
+    
+}
+.buttonHeaderIMG2 .LearnMore1{
+    padding: 15px 70px;
+    color: white;
+    background: transparent;
+    border: 1px solid white;
+}
+
+.Link a{
+    text-decoration: none;
+    margin: 0px 0px 50px 450px;
+    color: white;
+    font-weight: 700;
+}
+
+.headerImg3Container{
+    margin: -410px 0px 0px 3840px;
+    width: 1200px;
+}
+
+.headerImg3Container .HeaderIMG3{
+    width: 1922px;
+    height: 500px;
+    background-image: url(img/Header\ -\ img\ 3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -140px ;
+
+}
+
+
+.Title-HeaderIMG3 h2{
+    font-size: 40px;
+    margin: -420px 0px 0px 420px ;
+    font-family: "Kanit", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+    color: white;
+}
+.describiton-HeaderIMG3 h4{
+    margin: 15px 0px 50px 425px;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+ 
+}
+.buttonHeaderIMG3{
+ 
+        display: flex;
+        flex-direction: column;
+    width: 150;
+    margin: 10px 0px 15px 430px;
+
+      }
+.buttonHeaderIMG3 > div button{
+    margin: 15px 0px 0px 0px ;
+    padding: 15px 110px;
+    background: #0070ba;
+    color: white;
+    border: 1px solid #0070ba;
+    border-radius: 50px;
+    font-size: 600;
+    
+}
+.buttonHeaderIMG3 .LearnMore1{
+    padding: 15px 70px;
+    color: white;
+    background: transparent;
+    border: 1px solid white;
+    font-size: 600;
+}
+
+.Link a{
+    text-decoration: none;
+    margin: 0px 0px 50px 450px;
+    color: white;
+    font-weight: 700;
+}
+
+.ClickHereContainer{
+    width: 1922px;
+    height: 60px;
+    background: #f5f7fa;
+    margin: -33px 0px 0px -10px;
+}
+.TitleClickContainer{
+    padding: 2px 0px 0px 750px;
+}
+.TitleClickContainer a{
+    color: #0070ba;
+    font-weight: 800;
+    text-decoration: none;  
+    font-size: 15px;
+}
+
+.MiddleContainer{
+    margin: 100px 0px 0px 450px;
+}
+
+.TitleMiddleContianer h4{
+    margin: 0px 0px 0px 350px;
+    font-size: 30px;
+}
+
+.LineMiddle .HR-1{
+    border: 1px dotted #b1b1b1;
+    width: 1150px;
+    margin: 30px 0px 0px -40px;
+}
+
+
+.PayPalImgContainer {
+    display: flex;
+    flex-wrap: nowrap;
+    margin:   50px 0px 0px 60px;
+}
+
+.PayPalImgContainer > div{
+    margin: 0px 190px 0px 0px;
+}
+
+.Number-CreateYourAccount button{
+    padding: 12px 17px;
+    border-radius: 30px;
+    border: 1px rgb(110, 110, 110) solid;
+    background: transparent;
+    font-weight: 600;
+    margin: 15px -20px 0px 10px;
+}
+
+.CreateYourAccount{
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 0px 0px 0px 0px;
+}
+
+
+
+
+.title-CreateYourAccount h4{
+    font-size: 15px;
+    margin: 15px 0px 0px 40px;
+    font-weight: 500;
+    font-weight: 600;
+}
+.Describtion-CreateYourAccount{
+    margin: 20px 0px 0px -155px;
+
+}
+.Describtion-CreateYourAccount h4{
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
+
+
+
+.Number-LinkYourCard button{
+    padding: 12px 17px;
+    border-radius: 30px;
+    border: 1px rgb(110, 110, 110) solid;
+    background: transparent;
+    font-weight: 600;
+    margin: 15px -20px 0px 30px;
+}
+
+.LinkYourCard{
+    display: flex;
+    flex-wrap: nowrap;
+    margin: -99px 0px 0px 360px;
+}
+
+
+
+
+.title-LinkYourCard h4{
+    font-size: 15px;
+    margin: 15px 0px 0px 40px;
+    font-weight: 500;
+    font-weight: 600;
+}
+.Describtion-LinkYourCard{
+    margin: 20px 0px 0px -110px;
+
+}
+.Describtion-LinkYourCard h4{
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
+.Number-ChoosePayPalAtCheckout button{
+    padding: 12px 17px;
+    border-radius: 30px;
+    border: 1px rgb(110, 110, 110) solid;
+    background: transparent;
+    font-weight: 600;
+    margin: 15px -60px 0px 150px;
+}
+
+.ChoosePayPalAtCheckout{
+    display: flex;
+    flex-wrap: nowrap;
+    margin: -99px 0px 0px 630px;
+}
+
+
+
+
+.title-ChoosePayPalAtCheckout h4{
+    font-size: 15px;
+    margin: 20px -1px 0px 70px;
+    font-weight: 500;
+    font-weight: 600;
+}
+.Describtion-ChoosePayPalAtCheckout{
+    margin: 25px 0px 0px -210px;
+
+}
+.Describtion-ChoosePayPalAtCheckout h4{
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
+.WhyPayPal{
+    width: 1915px;
+    height: 500px;
+    background: #f5f7fa;
+    margin: 50px 0px 0px -10px;
+}
+
+.TitleWhyPayPalContainer h4{
+    font-size: 35px;
+    margin: 0px 0px 0px 850px;
+    padding: 80px 0px 0px 0px;
+    color: #4a4a4a;
+}
+
+
+.ContainericonWhyPaypal{
+    display: flex;
+    margin: 50px 0px 0px 250px;
+    
+}
+.ContainericonWhyPaypal > div{
+    margin: 0px 35px 0px 300px;
+}
+
+.ContainerTitlePaypal{
+    display: flex;
+    margin: 0px 0px 0px 450px;
+}
+
+.ContainerTitlePaypal > div{
+    margin: 0px 240px 0px 50px;
+}
+
+
+.ContiainerDescribitonPayPal{
+    display: flex;
+    flex-wrap: nowrap;
+   
+}
+
+.ContiainerDescribitonPayPal > div {
+    margin: -30px -350px 0px 420px;
+    font-size: 15px;
+    font-weight: 800;
+
+}
+
+.LastPart h4{
+    font-size: 11px;
+    margin: 50px 0px 0px 920px;
+}
+
+.LessWorryingmoreShopping{
+    height: 0px;
+}
+
+.img-LessWorryingmoreShopping {
+    background-image: url(img/Less\ Worring.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1920px;
+    height: 520px;   
+    background-position-y:-90px ;
+    margin: -20px 0px 0px -8px;
+}
+
+.TitleLessWorryingShopping h4{
+    font-size: 35px;
+    margin:-300px 0px 0px 450px;
+    color: white;
+
+}
+
+
+.DescribitionLessWorryingShopping h4{
+    color: white;
+    font-size: 15px;
+    margin: 15px 0px 10px 450px;
+}
+
+.LinkLessWorryingmoreShopping a{
+    color: white;
+    font-weight: 400;
+    margin: 0px 0px 0px 450px;
+    
+}
+
+.ShoppingOrSendinG{
+    margin: 580px 0px 0px 350px;
+}
+.TitleShoppingOrSending h4{
+    margin: 20px 0px 0px 150px;
+    font-size: 30px;
+}
+
+.iconShopingOrSending{
+    display: flex;
+    margin: 80px 0px 0px 250px;
+}
+
+.iconShopingOrSending > div{
+  margin: 0px 410px 0px 0px;
+}
+
+.TitleIconShoppingOrSending {
+    display: flex;
+    margin: 0px 0px 0px 240px;
+}
+
+.TitleIconShoppingOrSending > div{
+    margin: 0px 370px 0px 0px;
+    
+}
+
+.DescribitionIconShoppingOrSending {
+    display: flex;
+}
+
+.DescribitionIconShoppingOrSending > div h4{
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0px 35px 0px 10px;
+    font-size: 13px;
+
+}
+
+.LinkMoreAbout {
+    display: flex;
+}
+
+.LinkMoreAbout > div{
+    font-size: 12px;
+    margin: 20px 110px 0px 200px;
+
+}
+
+.MilionOfStoresAcceptPayPal{
+    width: 1920px;
+    height: 450px;
+    background: #f5f7fa;
+    margin: 90px 0px 0px -10px;
+}
+
+
+.TitleMilionOfStoresAcceptPayPal h4{
+    padding: 40px 0px 0px 0px;
+    margin: 0px 0px 0px 650px;
+    font-size: 30px;
+}
+
+
+.LineMiddle1 .HR-2{
+    border: 1px dotted #b1b1b1;
+    width: 1100px;
+    margin: 50px 0px 0px 410px;
+}
+.LogoStoresAcceptPayPal{
+    margin: 30px 0px 0px 450px;
+}
+
+.Header1 {
+    display: flex;
+}
+
+.Header1 div{
+    margin: 0px 50px 0px 0px;
+}
+
+.Header2 {
+    display: flex;
+    margin: 0px 20px 0px 120px;
+}
+
+.Header2 div{
+    margin: 0px 50px 0px 0px;
+}
+.ManageYourRecuringPaymentsEasily{
+    margin: -42px 0px 0px 0px;
+}
+.img-ManageYourRecuringPaymentEasily {
+    width: 1921px;
+    height: 550px;
+    margin: 0px 0px 0px -10px;
+    background-image: url(img/editorial-automated-payments.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -140px ;
+}
+
+.TitleMagnageYourRecuringPaymentEasily h4{
+    font-size: 35px;
+    color: white;
+    padding: 200px 0px 0px 450px;
+    
+}
+
+.DescribitionManageYourRecuringPaymentEasily h4{
+    font-size: 15px;
+    color: white;
+    width: 1000px;
+    margin: -30px 0px 10px 450px;
+}
+
+.Link a{
+    margin: 0px 0px 0px 450px;
+}
+
+.businessSolutions{
+    margin: -55px 0px 0px -10px;
+    background: #f5f7fa;
+    height: 300px;
+
+}
+
+.TitleBusinessSolutions h4{
+    margin: 0px 0px 20px 750px;
+    font-size: 30px;
+    padding: 50px 0px 0px 0px;
+
+}
+
+.DescribitonBusinessSolutions h4{
+    margin: 0px 0px 0px 550px;
+}
+
+.ButtonBusinessSolution {
+    margin: 30px 0px 0px 810px;
+}
+.ButtonBusinessSolution button{
+    padding: 15px 60px;
+    border: 1px solid #0070ba;
+    background: transparent;
+    border-radius: 50px;
+}
+
+.TitleStartShoppingTheNewWay h4{
+    margin: 50px 0px 0px 750px;
+    font-size: 30px;
+}
+
+.ButtonStartShoppingTheNewWay button{
+    padding: 15px 100px;
+    background: #0070ba;
+    border-radius: 50px;
+    border: none;
+    margin: 30px 0px 120px 820px;
+    color: white;
+
+}
+
+
+.ListContianer {
+    display: flex;
+    font-size: 12px;
+    margin: 0px 0px 0px 440px;
+}
+
+.ListContianer > div a{
+    margin: 0px 20px 0px 0px;
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+
+}
+
+
+.ListContianer  a:hover{
+  text-decoration: underline;
+
+}
+
+
+.LineMiddle1 .HR-3{
+    border: 1px dotted #b1b1b1;
+    width: 1000px;
+    margin: 10px 0px 0px 440px;
+}
+.About {
+    margin: 10px 0px 0px 420px;
+    display: flex;
+}
+
+.About > div a{
+    font-size: 13px;
+    color: #4a4a4a;
+    text-decoration: none;
+    margin: 0px 0px 0px 20px;
+}
+
+.About > div a:hover{
+  text-decoration: underline;
+}
+
+
+.About .About1{
+    margin: 0px 0px 0px 280px;
+} 
+
+
+.PayPal{
+    margin: 0px 0px 0px 290px;
+}
+
+.PayPal h4{
+    font-size: 13px;
+    margin: 15px 0px 0px 150px;
+}
